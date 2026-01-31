@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Noava-musicplayer](https://github.com/RadinGhaderi/Noava-music-player-V3)
 
-- 🌱 I’m currently learning **C##**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RadinGhaderi](https://github.com/RadinGhaderi)
 
-- 💬 Ask me about **Python, Game Developing, AI Developing**
+- 💬 Ask me about **Python, Data Science, AI Developing**
 
 - 📫 How to reach me **radinghaderi01@gamail.com**
 
